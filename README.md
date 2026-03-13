@@ -26,14 +26,14 @@ logic, and API endpoints**.
 
 ## Tech Stack
 
-  Component               Technology
-  ----------------------- ----------------
-  Backend                 Django
-  Database                PostgreSQL
-  Containerisation        Docker
-  Service orchestration   Docker Compose
-  Linting                 Flake8
-  CI/CD                   GitHub Actions
+  |Component               |Technology
+  |----------------------- |----------------
+  |Backend                 |Django
+  |Database                |PostgreSQL
+  |Containerisation        |Docker
+  |Service orchestration   |Docker Compose
+  |Linting                 |Flake8
+  |CI/CD                   |GitHub Actions
 
 ------------------------------------------------------------------------
 
@@ -199,7 +199,7 @@ Used to ensure database readiness when starting Docker containers.
 
 ## Future Development
 
-This project is intended as a **backend API starter template**.
+This project is intended as a **backend project starter template**.
 
 Typical next steps include:
 
