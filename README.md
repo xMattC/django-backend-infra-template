@@ -211,8 +211,9 @@ Typical next steps include:
 
 ------------------------------------------------------------------------
 
-## Author
+## Documentation
 
-Created by **Matt C**
+Detailed documentation can be found in the `docs/` directory:
 
-GitHub: https://github.com/xMattC
+- [Documentation](docs)
+
